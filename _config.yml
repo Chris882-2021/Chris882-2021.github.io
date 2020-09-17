@@ -18,6 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Mobile Apps Website: "https://mrgrunebaum-hm.github.io/mobileapps/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -40,9 +41,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "chris_kaiser@horacemann.org"
-  facebook: stuff
   github: Chris882-2021
-  twitter: stuff
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
