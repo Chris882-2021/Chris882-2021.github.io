@@ -19,7 +19,6 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Mobile Apps Website: "https://mrgrunebaum-hm.github.io/mobileapps/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -62,7 +61,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website contains all my homework for my Mobile App's Class. Also Fctuqp'u c Dwvv.
 
 # --- General options --- #
 
