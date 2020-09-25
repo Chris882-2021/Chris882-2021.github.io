@@ -3,8 +3,7 @@ layout: post
 title: Good vs. Bad Design
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [good, bad, design]
-tags: [test]
-comments: true
+tags: [good, bad, design]
 ---
 ## Good vs. Bad Design
 
