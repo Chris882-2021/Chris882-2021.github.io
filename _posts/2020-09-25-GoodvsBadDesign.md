@@ -1,3 +1,11 @@
+---
+layout: post
+title: Good vs. Bad Design
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [good, bad, design]
+tags: [test]
+comments: true
+---
 ## Good vs. Bad Design
 
 ![Image of a bad design for an elevator.](/badElevator.jpg)
