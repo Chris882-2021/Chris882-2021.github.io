@@ -2,8 +2,8 @@
 layout: post
 title: Fly On The Wall Lab
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [problems, class, design]
-tags: [problems, class, design]
+gh-badge: [class problems, observations, analysis]
+tags: [class problems, observations, analysis]
 ---
 ## Fly On The Wall Lab
 
